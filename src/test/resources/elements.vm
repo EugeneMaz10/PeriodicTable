@@ -1,1 +1,13 @@
 <h1>$message</h1>
+
+<table>
+  <tr>
+    <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:100px;top:75px;"  >H</th>
+      <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:100px;top:150px;"  >Li</th>
+  <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:100px;top:225px;"  >Na</th>
+    <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:100px;top:75px;"  >H</th>
+
+     <th style="background-color:Pink;width:5%;height:10%;size:10%;position:absolute;left:1000px;top:75px;">He</th>
+    </tr>
+    </table>
+    

@@ -1,7 +1,8 @@
 package Elements;
 
 import org.apache.log4j.BasicConfigurator;
-import Table.Table;
+
+import spark.template.velocity.example.Table.Table;
 
 import static spark.Spark.*;
 

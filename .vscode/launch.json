@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Table",
+            "request": "launch",
+            "mainClass": "spark.template.velocity.example.Table",
+            "projectName": "HelloJava"
+        },
+        {
+            "type": "java",
+            "name": "Launch VelocityExample",
+            "request": "launch",
+            "mainClass": "spark.template.velocity.example.VelocityExample",
+            "projectName": "HelloJava"
+        },
+        {
+            "type": "java",
             "request": "attach",
             "name": "Java",
             "port": 5005,
