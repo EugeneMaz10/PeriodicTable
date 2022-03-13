@@ -2,12 +2,10 @@ package Elements;
 
 import org.apache.log4j.BasicConfigurator;
 
-import spark.template.velocity.example.Table.Table;
-
 import static spark.Spark.*;
 
 
-public class Hydrogen extends Table
+public class Hydrogen 
 {
     public static void main(String[] args)
     {
