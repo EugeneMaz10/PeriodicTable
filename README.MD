@@ -1,3 +1,3 @@
-# Hello-Spark-Java
+# Periodic-Table-Spark-Java
 
-Run http://localhost:4567/hello in browser
+Run http://localhost:4567/elements in browser
