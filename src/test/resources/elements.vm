@@ -2,12 +2,62 @@
 
 <table>
   <tr>
-    <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:100px;top:75px;"  >H</th>
-      <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:100px;top:150px;"  >Li</th>
-  <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:100px;top:225px;"  >Na</th>
-    <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:100px;top:75px;"  >H</th>
+    <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:100px;top:75px;"   ><p>1<br>H<p></th>
+    <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:700px;top:150px;"  >C</th>
+    <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:775px;top:150px;"  >N</th>
+    <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:850px;top:150px;"  >O</th>
+    <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:925px;top:150px;"  >F</th>
+    <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:775px;top:225px;"  >P</th>
+    <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:850px;top:225px;"  >S</th>
+    <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:925px;top:225px;"  >Cl</th>
+    <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:850px;top:300px;"  >Se</th>
+    <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:925px;top:300px;"  >Br</th>
+    <th style="background-color:Blue;width:5%;height:10%;size:10%;position:absolute;left:925px;top:375px;"  >I</th>
 
-     <th style="background-color:Pink;width:5%;height:10%;size:10%;position:absolute;left:1000px;top:75px;">He</th>
+    <th style="background-color:Yellow;width:5%;height:10%;size:10%;position:absolute;left:625px;top:150px;">B</th>
+    <th style="background-color:Yellow;width:5%;height:10%;size:10%;position:absolute;left:700px;top:225px;">Si</th>
+    <th style="background-color:Yellow;width:5%;height:10%;size:10%;position:absolute;left:700px;top:300px;">Ge</th>
+    <th style="background-color:Yellow;width:5%;height:10%;size:10%;position:absolute;left:775px;top:300px;">As</th>
+    <th style="background-color:Yellow;width:5%;height:10%;size:10%;position:absolute;left:775px;top:375px;">Sb</th>
+    <th style="background-color:Yellow;width:5%;height:10%;size:10%;position:absolute;left:850px;top:375px;">Te</th>
+
+
+    <th style="background-color:Green;width:5%;height:10%;size:10%;position:absolute;left:625px;top:225px;">Al</th>
+    <th style="background-color:Green;width:5%;height:10%;size:10%;position:absolute;left:625px;top:300px;">Ga</th>
+    <th style="background-color:Green;width:5%;height:10%;size:10%;position:absolute;left:625px;top:375px;">In</th>
+    <th style="background-color:Green;width:5%;height:10%;size:10%;position:absolute;left:625px;top:450px;">Tl</th>
+    <th style="background-color:Green;width:5%;height:10%;size:10%;position:absolute;left:700px;top:375px;">Sn</th>
+    <th style="background-color:Green;width:5%;height:10%;size:10%;position:absolute;left:625px;top:600px;">Pb</th>
+    <th style="background-color:Green;width:5%;height:10%;size:10%;position:absolute;left:625px;top:675px;">Bi</th>
+    <th style="background-color:Green;width:5%;height:10%;size:10%;position:absolute;left:625px;top:750px;">Po</th>
+      <th style="background-color:Green;width:5%;height:10%;size:10%;position:absolute;left:625px;top:825px;">At</th>
+   
+
+    <th style="background-color:Grey;width:5%;height:10%;size:10%;position:absolute;left:625px;top:525px;">Nh</th>
+    <th style="background-color:Purple;width:5%;height:10%;size:10%;position:absolute;left:250px;top:300px;">Sc</th>
+
+
+   
+   <th style="background-color:Lime;width:5%;height:10%;size:10%;position:absolute;left:100px;top:150px;"  >Li</th>
+    <th style="background-color:Lime;width:5%;height:10%;size:10%;position:absolute;left:100px;top:225px;"  >Na</th>
+    <th style="background-color:Lime;width:5%;height:10%;size:10%;position:absolute;left:100px;top:300px;"  >K</th>
+    <th style="background-color:Lime;width:5%;height:10%;size:10%;position:absolute;left:100px;top:375px;"  >Rb</th>
+    <th style="background-color:Lime;width:5%;height:10%;size:10%;position:absolute;left:100px;top:450px;"  >Cs</th>
+    <th style="background-color:Lime;width:5%;height:10%;size:10%;position:absolute;left:100px;top:525px;"  >Fr</th>
+
+    <th style="background-color:Red;width:5%;height:10%;size:10%;position:absolute;left:175px;top:150px;">Be</th>
+    <th style="background-color:Red;width:5%;height:10%;size:10%;position:absolute;left:175px;top:225px;">Mg</th>
+    <th style="background-color:Red;width:5%;height:10%;size:10%;position:absolute;left:175px;top:300px;">Ca</th>
+     <th style="background-color:Red;width:5%;height:10%;size:10%;position:absolute;left:175px;top:375px;">Sr</th>
+       <th style="background-color:Red;width:5%;height:10%;size:10%;position:absolute;left:175px;top:450px;">Ba</th>
+     <th style="background-color:Red;width:5%;height:10%;size:10%;position:absolute;left:175px;top:525px;">Ra</th>
+
+       <th style="background-color:Pink;width:5%;height:10%;size:10%;position:absolute;left:1000px;top:75px;"><p>2<br>He</th>
+     <th style="background-color:Pink;width:5%;height:10%;size:10%;position:absolute;left:1000px;top:150px;">Ne</th>
+       <th style="background-color:Pink;width:5%;height:10%;size:10%;position:absolute;left:1000px;top:225px;">Ar</th>
+     <th style="background-color:Pink;width:5%;height:10%;size:10%;position:absolute;left:1000px;top:300px;">Kr</th>
+      <th style="background-color:Pink;width:5%;height:10%;size:10%;position:absolute;left:1000px;top:375px;">Xe</th>
+       <th style="background-color:Pink;width:5%;height:10%;size:10%;position:absolute;left:1000px;top:375px;">Rn</th>
     </tr>
     </table>
     

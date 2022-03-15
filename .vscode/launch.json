@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Hydrogen",
+            "request": "launch",
+            "mainClass": "Class.Elements.Hydrogen",
+            "projectName": "HelloJava"
+        },
+        {
+            "type": "java",
             "name": "Launch Table",
             "request": "launch",
             "mainClass": "spark.template.velocity.example.Table",
