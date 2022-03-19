@@ -16,4 +16,10 @@
  
  1. The Project is meant to run from a remote PAAS(Platform as a Service) i.e Heroku or AWS Backend but I am experiencing issues with the systemS.If resolved,
     The project will run entirely from a remote server hence remove the burden from the end user in deploying locally 
+
+# Git updates
+
+git init
+git add .
+git status
    

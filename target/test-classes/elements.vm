@@ -35,7 +35,7 @@
 
     <th style="background-color:Grey;width:5%;height:10%;size:10%;position:absolute;left:625px;top:525px;">Nh</th>
     <th style="background-color:Purple;width:5%;height:10%;size:10%;position:absolute;left:250px;top:300px;">Sc</th>
-
+        <th style="background-color:Purple;width:5%;height:10%;size:10%;position:absolute;left:250px;top:375px;">Y</th>
 
    
    <th style="background-color:Lime;width:5%;height:10%;size:10%;position:absolute;left:100px;top:150px;"  >Li</th>
